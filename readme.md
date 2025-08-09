@@ -11,6 +11,7 @@ which enhances overall gaming experience.
 # How to use
 First start off by opening up your executor and execute this code
 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/StormSoftworks/stormhubscript/refs/heads/main/script.lua"))()```
+
 Then head to our website and get your key. Enter it and enjoy the script!
 
 Easy!
